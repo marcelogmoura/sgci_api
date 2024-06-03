@@ -1,4 +1,4 @@
-package com.marcelo.sgci.application;
+package com.marcelo.sgci.controllers;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
